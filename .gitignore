@@ -1,1 +1,4 @@
-env_Projet
+env_Projet/
+venv/
+__pycache__/
+.idea
